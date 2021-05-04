@@ -21,10 +21,11 @@ dist/
 
 # Maven
 target/
-dist/
 
 # JetBrains IDE
-.idea/*
+./.idea/*
+./.idea/libraries
+./.idea/sonarlint
 
 # Unit test reports
 TEST*.xml
