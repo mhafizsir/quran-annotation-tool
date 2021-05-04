@@ -1,0 +1,6 @@
+com/quran/annotationtool/AnnotationToolApplication.class
+com/quran/annotationtool/controller/QuranController.class
+com/quran/annotationtool/entity/QuranDAO.class
+com/quran/annotationtool/service/QuranService.class
+com/quran/annotationtool/model/QuranDTO.class
+com/quran/annotationtool/repository/QuranRepository.class
