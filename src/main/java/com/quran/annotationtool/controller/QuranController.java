@@ -1,7 +1,6 @@
 package com.quran.annotationtool.controller;
 
 import com.quran.annotationtool.entity.QuranDAO;
-import com.quran.annotationtool.model.QuranDTO;
 import com.quran.annotationtool.service.QuranService;
 import java.util.List;
 import lombok.RequiredArgsConstructor;
