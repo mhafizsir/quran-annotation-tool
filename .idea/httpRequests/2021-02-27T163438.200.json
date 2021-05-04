@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "aya": 1,
+    "sura": 1,
+    "position": 1,
+    "text": "بِسْمِ",
+    "page": 1,
+    "line": 2,
+    "translation": "In (the) name"
+  },
+  {
+    "id": 2,
+    "aya": 1,
+    "sura": 1,
+    "position": 2,
+    "text": "اللَّهِ",
+    "page": 1,
+    "line": 2,
+    "translation": "(of) Allah"
+  },
+  {
+    "id": 3,
+    "aya": 1,
+    "sura": 1,
+    "position": 3,
+    "text": "الرَّحْمَٰنِ",
+    "page": 1,
+    "line": 2,
+    "translation": "the Most Gracious"
+  },
+  {
+    "id": 4,
+    "aya": 1,
+    "sura": 1,
+    "position": 4,
+    "text": "الرَّحِيمِ",
+    "page": 1,
+    "line": 2,
+    "translation": "the Most Merciful"
+  },
+  {
+    "id": 5,
+    "aya": 1,
+    "sura": 1,
+    "position": 5,
+    "text": null,
+    "page": 1,
+    "line": 2,
+    "translation": null
+  },
+  {
+    "id": 6,
+    "aya": 2,
+    "sura": 1,
+    "position": 1,
+    "text": "الْحَمْدُ",
+    "page": 1,
+    "line": 3,
+    "translation": "All praises and thanks"
+  },
+  {
+    "id": 7,
+    "aya": 2,
+    "sura": 1,
+    "position": 2,
+    "text": "لِلَّهِ",
+    "page": 1,
+    "line": 3,
+    "translation": "(be) to Allah"
+  },
+  {
+    "id": 8,
+    "aya": 2,
+    "sura": 1,
+    "position": 3,
+    "text": "رَبِّ",
+    "page": 1,
+    "line": 3,
+    "translation": "(the) Lord"
+  },
+  {
+    "id": 9,
+    "aya": 2,
+    "sura": 1,
+    "position": 4,
+    "text": "الْعَالَمِينَ",
+    "page": 1,
+    "line": 3,
+    "translation": "(of all) the worlds"
+  },
+  {
+    "id": 10,
+    "aya": 2,
+    "sura": 1,
+    "position": 5,
+    "text": null,
+    "page": 1,
+    "line": 3,
+    "translation": null
+  },
+  {
+    "id": 11,
+    "aya": 3,
+    "sura": 1,
+    "position": 1,
+    "text": "الرَّحْمَٰنِ",
+    "page": 1,
+    "line": 4,
+    "translation": "The Most Gracious"
+  },
+  {
+    "id": 12,
+    "aya": 3,
+    "sura": 1,
+    "position": 2,
+    "text": "الرَّحِيمِ",
+    "page": 1,
+    "line": 4,
+    "translation": "the Most Merciful"
+  },
+  {
+    "id": 13,
+    "aya": 3,
+    "sura": 1,
+    "position": 3,
+    "text": null,
+    "page": 1,
+    "line": 4,
+    "translation": null
+  },
+  {
+    "id": 14,
+    "aya": 4,
+    "sura": 1,
+    "position": 1,
+    "text": "مَالِكِ",
+    "page": 1,
+    "line": 4,
+    "translation": "Master"
+  },
+  {
+    "id": 15,
+    "aya": 4,
+    "sura": 1,
+    "position": 2,
+    "text": "يَوْمِ",
+    "page": 1,
+    "line": 4,
+    "translation": "(of the) Day"
+  },
+  {
+    "id": 16,
+    "aya": 4,
+    "sura": 1,
+    "position": 3,
+    "text": "الدِّينِ",
+    "page": 1,
+    "line": 4,
+    "translation": "(of) [the] Judgment"
+  },
+  {
+    "id": 17,
+    "aya": 4,
+    "sura": 1,
+    "position": 4,
+    "text": null,
+    "page": 1,
+    "line": 4,
+    "translation": null
+  },
+  {
+    "id": 18,
+    "aya": 5,
+    "sura": 1,
+    "position": 1,
+    "text": "إِيَّاكَ",
+    "page": 1,
+    "line": 5,
+    "translation": "You Alone"
+  },
+  {
+    "id": 19,
+    "aya": 5,
+    "sura": 1,
+    "position": 2,
+    "text": "نَعْبُدُ",
+    "page": 1,
+    "line": 5,
+    "translation": "we worship"
+  },
+  {
+    "id": 20,
+    "aya": 5,
+    "sura": 1,
+    "position": 3,
+    "text": "وَإِيَّاكَ",
+    "page": 1,
+    "line": 5,
+    "translation": "and You Alone"
+  },
+  {
+    "id": 21,
+    "aya": 5,
+    "sura": 1,
+    "position": 4,
+    "text": "نَسْتَعِينُ",
+    "page": 1,
+    "line": 5,
+    "translation": "we ask for help"
+  },
+  {
+    "id": 22,
+    "aya": 5,
+    "sura": 1,
+    "position": 5,
+    "text": null,
+    "page": 1,
+    "line": 5,
+    "translation": null
+  },
+  {
+    "id": 23,
+    "aya": 6,
+    "sura": 1,
+    "position": 1,
+    "text": "اهْدِنَا",
+    "page": 1,
+    "line": 5,
+    "translation": "Guide us"
+  },
+  {
+    "id": 24,
+    "aya": 6,
+    "sura": 1,
+    "position": 2,
+    "text": "الصِّرَاطَ",
+    "page": 1,
+    "line": 6,
+    "translation": "(to) the path"
+  },
+  {
+    "id": 25,
+    "aya": 6,
+    "sura": 1,
+    "position": 3,
+    "text": "الْمُسْتَقِيمَ",
+    "page": 1,
+    "line": 6,
+    "translation": "the straight"
+  },
+  {
+    "id": 26,
+    "aya": 6,
+    "sura": 1,
+    "position": 4,
+    "text": null,
+    "page": 1,
+    "line": 6,
+    "translation": null
+  },
+  {
+    "id": 27,
+    "aya": 7,
+    "sura": 1,
+    "position": 1,
+    "text": "صِرَاطَ",
+    "page": 1,
+    "line": 6,
+    "translation": "(The) path"
+  },
+  {
+    "id": 28,
+    "aya": 7,
+    "sura": 1,
+    "position": 2,
+    "text": "الَّذِينَ",
+    "page": 1,
+    "line": 6,
+    "translation": "(of) those"
+  },
+  {
+    "id": 29,
+    "aya": 7,
+    "sura": 1,
+    "position": 3,
+    "text": "أَنْعَمْتَ",
+    "page": 1,
+    "line": 6,
+    "translation": "You have bestowed (Your) Favors"
+  },
+  {
+    "id": 30,
+    "aya": 7,
+    "sura": 1,
+    "position": 4,
+    "text": "عَلَيْهِمْ",
+    "page": 1,
+    "line": 7,
+    "translation": "on them"
+  },
+  {
+    "id": 31,
+    "aya": 7,
+    "sura": 1,
+    "position": 5,
+    "text": "غَيْرِ",
+    "page": 1,
+    "line": 7,
+    "translation": "not (of)"
+  },
+  {
+    "id": 32,
+    "aya": 7,
+    "sura": 1,
+    "position": 6,
+    "text": "الْمَغْضُوبِ",
+    "page": 1,
+    "line": 7,
+    "translation": "those who earned (Your) wrath"
+  },
+  {
+    "id": 33,
+    "aya": 7,
+    "sura": 1,
+    "position": 7,
+    "text": "عَلَيْهِمْ",
+    "page": 1,
+    "line": 7,
+    "translation": "on themselves"
+  },
+  {
+    "id": 34,
+    "aya": 7,
+    "sura": 1,
+    "position": 8,
+    "text": "وَلَا",
+    "page": 1,
+    "line": 8,
+    "translation": "and not"
+  },
+  {
+    "id": 35,
+    "aya": 7,
+    "sura": 1,
+    "position": 9,
+    "text": "الضَّالِّينَ",
+    "page": 1,
+    "line": 8,
+    "translation": "(of) those who go astray"
+  },
+  {
+    "id": 36,
+    "aya": 7,
+    "sura": 1,
+    "position": 10,
+    "text": null,
+    "page": 1,
+    "line": 8,
+    "translation": null
+  }
+]

@@ -1,0 +1,18 @@
+GET http://localhost:8080/quran?suraid=1
+
+<> 2021-02-27T164802.200.json
+
+###
+
+GET http://localhost:8080/quran?suraid=1
+
+<> 2021-02-27T164730.200.json
+
+###
+
+GET http://localhost:8080/quran?suraid=1
+
+<> 2021-02-27T163438.200.json
+
+###
+
